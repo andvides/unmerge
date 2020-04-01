@@ -7,7 +7,7 @@ Interlaced forward and reverse paired-end reads to forward and reverse files.
 Install
 ---------------------------------------------------------------
 $cd unmerge <br/>
-$make MAKEFILE <br/>
+$make<br/>
 
 ---------------------------------------------------------------
 Running 
