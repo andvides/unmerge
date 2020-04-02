@@ -12,10 +12,10 @@ $make<br/>
 ---------------------------------------------------------------
 Running 
 ---------------------------------------------------------------
-`umerge` file header `[numReads: optional to extract n reads]`<br/>
+`umerge` file header `[numReads]`<br/>
 file: fastq file <mandatory> <br/>
 header: read name <mandatory> <br/>
-numReads: extract only n reads <optional> <br/>
+numReads: extract only n reads <optional>, default all <br/>
 
 ---------------------------------------------------------------
 License
