@@ -6,9 +6,10 @@ Interlaced forward and reverse paired-end reads to forward and reverse files.
 ---------------------------------------------------------------
 Install
 ---------------------------------------------------------------
-$git clone https://github.com/andvides/unmerge.git <br/>
-$cd unmerge <br/>
-$make<br/>
+$ wget https://github.com/andvides/unmerge/releases/download/v1.0/unmerge_v1.zip <br/>
+$ unzip unmerge_v1.zip <br/>
+$ cd unmerge_v1 <br/>
+$ make<br/>
 
 ---------------------------------------------------------------
 Running 
